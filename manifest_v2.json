@@ -1,0 +1,26 @@
+{
+  "item": {
+    "id": "com.canopus.lyraimport",
+    "restype": "quick_app",
+    "name": "Lyra音乐导入器",
+    "description": "为Lyra Player制作的音乐导入器",
+    "preview": [],
+    "icon": "icon.png",
+    "cover": "",
+    "author": [
+      {
+        "name": "Searchstars",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.1.0",
+      "versionCode": 3,
+      "file_name": "lyraimport-qa-prod-110-3.rpk"
+    }
+  },
+  "ext": {}
+}
