@@ -24,10 +24,10 @@
   },
   "ext": {
     "bundledResources": {
-      "required": {
+      "required": [{
         "type": "plugin",
         "id": "Lyra音乐导入器"
-      }
+      }]
     }
   }
 }
