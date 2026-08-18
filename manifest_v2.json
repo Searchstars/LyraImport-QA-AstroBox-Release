@@ -22,5 +22,12 @@
       "file_name": "lyraimport-qa-prod-120-4.rpk"
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "required": {
+        "type": "plugin",
+        "id": "Lyra音乐导入器"
+      }
+    }
+  }
 }
