@@ -6,7 +6,7 @@
     "description": "为Lyra Player制作的音乐导入器",
     "preview": [],
     "icon": "icon.png",
-    "cover": "",
+    "cover": "cover.png",
     "author": [
       {
         "name": "Searchstars",
@@ -17,9 +17,9 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "1.1.0",
-      "versionCode": 3,
-      "file_name": "lyraimport-qa-prod-110-3.rpk"
+      "version": "1.2.0",
+      "versionCode": 4,
+      "file_name": "lyraimport-qa-prod-120-4.rpk"
     }
   },
   "ext": {}
