@@ -17,9 +17,19 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "1.2.2",
-      "versionCode": 6,
-      "file_name": "lyraimport-qa-prod-122-6.rpk"
+      "version": "1.3.0",
+      "versionCode": 7,
+      "file_name": "lyraimport-qa-prod-130-7.rpk"
+    },
+    "xmb11": {
+      "version": "1.3.0",
+      "versionCode": 7,
+      "file_name": "lyraimport-qa-prod-130-7.rpk"
+    },
+    "xmb11nfc": {
+      "version": "1.3.0",
+      "versionCode": 7,
+      "file_name": "lyraimport-qa-prod-130-7.rpk"
     }
   },
   "ext": {
